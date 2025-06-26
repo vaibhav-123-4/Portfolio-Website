@@ -12,6 +12,7 @@ import {
   
   project2,
   project3,
+  project4,
   mysql,
   express,
   aws,
@@ -249,6 +250,31 @@ const projects = [
     ],
     image: project3,
     source_code_link: "https://github.com/vaibhav-123-4/HackThePlots",
+  },
+  {
+    name: " f1GPT",
+    description:
+      " f1GPT is a Formula 1 chatbot built with Next.js, React, and Together AI, designed to answer F1-related queries in real time. It integrates Astra DB for storing chat history and supports interactive conversations with AI-powered responses.",
+    tags: [
+      {
+        name: "LangChain",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Next.js",
+        color: "white-text-gradient",
+      },
+      {
+        name: "React",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Astra DB",
+        color: "green-text-gradient",
+      },
+    ],
+    image: project4,
+    source_code_link: "https://github.com/vaibhav-123-4/f1GPT",
   },
 ];
 

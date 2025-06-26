@@ -13,6 +13,7 @@ import css from "./tech/css.png";
 import figma from "./tech/figma.png";
 
 import project3 from './project3.webp';
+import project4 from './project4.webp';
 import project2 from './proj1.webp'
 import mysql from './tech/mysql.png';
 import express from './tech/express.png';
@@ -46,6 +47,7 @@ export {
  
   project2,
   project3,
+  project4,
   mysql,
   express,
   aws,
